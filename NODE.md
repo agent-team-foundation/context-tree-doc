@@ -5,7 +5,7 @@ owners: [liuchao001]
 
 This is the index page for **Context Tree**.
 
-*Code is cheap. Show me the context.*
+*Code Is Cheap. Context Is Law.*
 
 Context Tree is an open standard for organizational memory. It defines how teams of humans and AI agents structure, own, and navigate shared knowledge.
 
