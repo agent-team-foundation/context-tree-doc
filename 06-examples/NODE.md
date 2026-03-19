@@ -1,6 +1,6 @@
 ---
 title: "Examples"
-owners: [*]
+owners: ["*"]
 ---
 
 # Examples

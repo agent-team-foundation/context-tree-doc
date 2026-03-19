@@ -1,6 +1,6 @@
 ---
 title: "How It Works"
-owners: [*]
+owners: ["*"]
 ---
 
 # How It Works

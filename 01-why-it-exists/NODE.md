@@ -1,6 +1,6 @@
 ---
 title: "Why It Exists"
-owners: [*]
+owners: ["*"]
 ---
 
 This is the index page for **01 Why It Exists**.

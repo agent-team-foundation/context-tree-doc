@@ -1,6 +1,6 @@
 ---
 title: "Developers"
-owners: [*]
+owners: ["*"]
 ---
 
 # Developers

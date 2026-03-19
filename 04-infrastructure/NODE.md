@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure"
-owners: [*]
+owners: ["*"]
 ---
 
 # Infrastructure

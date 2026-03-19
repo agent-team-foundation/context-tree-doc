@@ -1,6 +1,6 @@
 ---
 title: "Getting Started"
-owners: [*]
+owners: ["*"]
 ---
 
 # Getting Started
